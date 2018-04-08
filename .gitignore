@@ -1,0 +1,9 @@
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.tar.gz
+
+*.idea
+*.iml
