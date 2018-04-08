@@ -8,9 +8,6 @@ public class LearningTest {
         System.out.println("Learning Intellij");
     }
 
-    public LearningTest() {
-    }
-
 }
 
 
